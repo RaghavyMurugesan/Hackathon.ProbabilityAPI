@@ -46,7 +46,7 @@ function getusername() {
      <h4 class="userName">Results for the Name <span><b>${input.value.toUpperCase()}</b></span></h4>
         <h2 class="para">Country Code:<span>${id[0]}</span></h2>
         <h2 class="para">Probability:<span>${prob[0].toFixed(2)}</span></h2><br>
-        <h2 class="para">Country Code:<span>${id[1]}</span></p>
-        <h2 class="para">Probability:<span>${prob[2].toFixed(2)}</span></p><br>`;
+        <h2 class="para">Country Code:<span>${id[1]}</span></h2>
+        <h2 class="para">Probability:<span>${prob[2].toFixed(2)}</span></h2><br>`;
   }
 }
